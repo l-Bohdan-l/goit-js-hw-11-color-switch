@@ -1,1 +1,1 @@
-import './js/timer.js';
+import './js/bgColorChange.js';
